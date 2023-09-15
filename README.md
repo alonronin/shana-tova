@@ -2,7 +2,7 @@
 
 > A bun program to start the new year.
 
-![screenshot.png](screenshot.png)
+![img.png](img.png)
 
 To install dependencies:
 
