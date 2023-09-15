@@ -1,12 +1,12 @@
 export class Shana {
-  _arr: string[] = [];
+  #arr: string[] = [];
 
   constructor() {
-    this._arr.push("🍎");
-    this._arr.push("🍯");
+    this.#arr.push("🍎");
+    this.#arr.push("🍯");
   }
 
   tova(): string {
-    return this._arr.join(" ➕ ");
+    return this.#arr.join(" ➕ ");
   }
 }
