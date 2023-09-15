@@ -1,5 +1,9 @@
 # Shana Tova
 
+> A bun program to start the new year.
+
+![screenshot.png](screenshot.png)
+
 To install dependencies:
 
 ```bash
